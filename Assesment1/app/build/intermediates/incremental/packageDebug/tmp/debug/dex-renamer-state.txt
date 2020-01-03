@@ -1,0 +1,4 @@
+#Sat Dec 21 14:47:55 IST 2019
+base.0=D\:\\urmila\\Assesment1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
